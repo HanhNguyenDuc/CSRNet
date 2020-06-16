@@ -1,0 +1,6 @@
+data/
+weights/
+.vscode/
+.__pycache__/
+test.json
+train.json
